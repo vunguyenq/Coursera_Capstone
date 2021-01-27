@@ -9,4 +9,4 @@ The list of venues is collected from FourSquare API and filtered for highly rate
 
 An unsupervised learning (K-Means clustering) was applied to group venues into 5 clusters. Coordinates of the clusters’ centroids are reversed geocoded to recommend 5 physical addresses in Paris where the E-Scooter stations should be set up.
 
-See [project report](../master/CapstoneReport-Best%20locations%20to%20set%20up%20tourist%20E-Scooter%20stations%20in%20Paris.pdf) for details
+See [project report](../master/CapstoneReport-Best%20locations%20to%20set%20up%20tourist%20E-Scooter%20stations%20in%20Paris.pdf) for details.
